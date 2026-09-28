@@ -1,4 +1,4 @@
-﻿{
+{
     "name": "cypress-api-tests",
     "version": "1.0.0",
     "private": true,
@@ -12,3 +12,4 @@
       "cypress": "^13.17.0"
     }
   }
+  
